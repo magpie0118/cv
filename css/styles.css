@@ -1,0 +1,29 @@
+
+    body {
+
+      background-color: #B2F9FC;
+      font-family: "Lucida Console", sans-serif;
+          }
+
+    hr {
+
+      background-color: #B2F9FC;
+      border-color: white;
+      border-width: 5px;
+      border-style: none;
+      border-top-style: dotted;
+      width: 100%;
+
+    }
+
+    h1{
+
+      font-family: "Lucida Handwriting", sans-serif;
+      color: #091353;
+    }
+
+    h3{
+
+    color: #091353;
+
+    }
